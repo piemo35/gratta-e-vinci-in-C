@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pietro/Documents/GITHUB/c/gratta/grattaVinci.cpp
+cstdio
+-
+cstdlib
+-
+ctime
+-
+
